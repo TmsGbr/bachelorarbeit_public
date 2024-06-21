@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/thomas/bachelorarbeit/Mice_Wellbeing-Thomas_Gebauer-2023-11-18/dlc-models/iteration-0/Mice_WellbeingNov18-trainset95shuffle1/train/snapshot-1030000"
+all_model_checkpoint_paths: "/home/thomas/bachelorarbeit/Mice_Wellbeing-Thomas_Gebauer-2023-11-18/dlc-models/iteration-0/Mice_WellbeingNov18-trainset95shuffle1/train/snapshot-1010000"
+all_model_checkpoint_paths: "/home/thomas/bachelorarbeit/Mice_Wellbeing-Thomas_Gebauer-2023-11-18/dlc-models/iteration-0/Mice_WellbeingNov18-trainset95shuffle1/train/snapshot-1015000"
+all_model_checkpoint_paths: "/home/thomas/bachelorarbeit/Mice_Wellbeing-Thomas_Gebauer-2023-11-18/dlc-models/iteration-0/Mice_WellbeingNov18-trainset95shuffle1/train/snapshot-1020000"
+all_model_checkpoint_paths: "/home/thomas/bachelorarbeit/Mice_Wellbeing-Thomas_Gebauer-2023-11-18/dlc-models/iteration-0/Mice_WellbeingNov18-trainset95shuffle1/train/snapshot-1025000"
+all_model_checkpoint_paths: "/home/thomas/bachelorarbeit/Mice_Wellbeing-Thomas_Gebauer-2023-11-18/dlc-models/iteration-0/Mice_WellbeingNov18-trainset95shuffle1/train/snapshot-1030000"

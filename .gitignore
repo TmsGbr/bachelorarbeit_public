@@ -166,6 +166,32 @@ models/
 # Whitelist config.yaml
 !/**/*.yaml
 
+# Latex
+*.tex
+*.pdf
+*.aux
+*.auxlock
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.dvi
+*.out
+*.bib
+*.bbl
+*.blg
+
+!thesis.tex
+
+# File duplicates
+*copy.ipynb
+
+# Other
+todos.md
+dlc_training.txt
+dlc_training copy.txt
+images/unterschrift.jpg
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore

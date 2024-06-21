@@ -1,0 +1,262 @@
+    # Project definitions (do not edit)
+Task: Mice_Wellbeing
+scorer: Thomas_Gebauer
+date: Nov18
+multianimalproject: false
+identity:
+
+    # Project path (change when moving around)
+project_path: /home/thomas/bachelorarbeit/Mice_Wellbeing-Thomas_Gebauer-2023-11-18
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3403.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3411.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3401.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3408.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3398.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3413.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3404.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3405.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3402.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3415.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3414.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3416.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3397.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3410.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3406.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3407.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3412.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3409.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3400.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/BL/SEG_3399.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3424.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3423.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3434.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3432.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3426.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3428.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3419.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3420.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3436.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3417.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3418.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3430.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3422.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3431.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3429.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3421.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3433.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3427.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3435.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/4h/SEG_3425.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3455.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3442.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3457.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3438.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3439.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3444.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3446.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3449.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3453.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3448.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3452.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3443.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3451.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3450.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3441.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3445.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3440.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3454.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3456.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD1/SEG_3447.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3477.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3458.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3461.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3476.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3469.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3464.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3466.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3468.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3459.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3462.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3460.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3474.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3465.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3473.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3472.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3470.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3463.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3471.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3475.MP4:
+    crop: 200, 1720, 150, 930
+  /home/thomas/bachelorarbeit/video/Homecage_Observation/POD2_/SEG_3467.MP4:
+    crop: 200, 1720, 150, 930
+bodyparts:
+- fl_tip
+- fl_finger
+- fl_hand
+- fl_elbow
+- fl_shoulder
+- fr_tip
+- fr_finger
+- fr_hand
+- fr_elbow
+- fr_shoulder
+- bl_tip
+- bl_finger
+- bl_hand
+- bl_elbow
+- bl_shoulder
+- br_tip
+- br_finger
+- br_hand
+- br_elbow
+- br_shoulder
+- tail0
+- tail1
+- tail2
+- tail3
+- back1
+- back0
+- neck
+- head
+- nose
+- l_eye
+- r_eye
+- l_ear
+- l_eartip
+- r_ear
+- r_eartip
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 4
+
+    # Plotting configuration
+skeleton:
+- - bl_tip
+  - bl_finger
+- - bl_finger
+  - bl_hand
+- - bl_hand
+  - bl_elbow
+- - bl_elbow
+  - bl_shoulder
+- - bl_shoulder
+  - br_shoulder
+- - br_tip
+  - br_finger
+- - br_finger
+  - br_hand
+- - br_hand
+  - br_elbow
+- - br_elbow
+  - br_shoulder
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 3
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
